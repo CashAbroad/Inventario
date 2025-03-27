@@ -1,0 +1,19 @@
+{
+  "name": "inventario",
+  "version": "1.0.0",
+  "description": "script to handle inventory, pending tests...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CashAbroad/Inventario.git"
+  },
+  "author": "nico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CashAbroad/Inventario/issues"
+  },
+  "homepage": "https://github.com/CashAbroad/Inventario#readme"
+}
